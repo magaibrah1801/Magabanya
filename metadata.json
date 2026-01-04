@@ -1,0 +1,8 @@
+{
+  "name": "GripCheck Pro",
+  "description": "A high-performance equipment management tool for grips and production crews. Streamline check-in/out workflows, track gear status, and get AI-powered kit recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
